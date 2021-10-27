@@ -1,0 +1,6 @@
+print("hello world")
+print("Hello world", 10, 20, 30, sep='@')
+print('prakash', 'end\n', 'prakash')
+print('10','\n','20','\n')
+print('manoj','\n''srikanth','\n')
+print('mechanical','\n''electrical') 
